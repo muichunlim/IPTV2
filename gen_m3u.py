@@ -8,13 +8,11 @@ INPUT_URL = "https://tv.iill.top/m3u/Gather"
 OUTPUT_FILE = "tv.m3u"
 
 GROUP_ORDER = [
-    "海外",
-    "台灣",
     "台湾",
+    "海外",
     "港澳",
     "綜合",
     "體育",
-    "地方",
 ]
 
 group_entries = OrderedDict((g, []) for g in GROUP_ORDER)
