@@ -77,7 +77,7 @@ https://tv.iill.top/4gtv/4gtv-4gtv041
 #EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://epg.iill.top/logo/華視新聞.png" group-title="•台湾「限制」" , 華視新聞「4gTV」
 https://tv.iill.top/4gtv/4gtv-4gtv052
 #EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://epg.iill.top/logo/民視.png" group-title="•台湾「限制」" , 民視「4gTV」
-https://tv.iill.top/4gtv/4gtv-4gtv155
+https://tv.iill.top/4gtv/4gtv-4gtv002
 #EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://epg.iill.top/logo/民視台灣台.png" group-title="•台湾「限制」" , 民視台灣「4gTV」
 https://tv.iill.top/4gtv/4gtv-4gtv001
 #EXTINF:-1 tvg-id="民視影劇台" tvg-name="民視影劇台" tvg-logo="https://epg.iill.top/logo/民視影劇台.png" group-title="•台湾「限制」" , 民視影劇「4gTV」
@@ -249,54 +249,56 @@ https://tv.iill.top/4gtv/4gtv-live0499
 #EXTINF:-1 tvg-id="新唐人亞太台" tvg-name="新唐人亞太台" tvg-logo="https://epg.iill.top/logo/新唐人亚太台.png" group-title="•台湾「限制」" , 新唐人亞太「4gTV」
 https://tv.iill.top/4gtv/4gtv-live050
 
-#EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文台" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" group-title="•海外「集合」",鳳凰衛視·中文
-http://r.jdshipin.com/cCCzW
-#EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" group-title="•海外「集合」",鳳凰衛視·資訊
-http://r.jdshipin.com/0Rp07
-#EXTINF:-1 tvg-id="鳳凰衛視香港台" tvg-name="鳳凰衛視香港台" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" group-title="•海外「集合」",鳳凰衛視·香港
-http://r.jdshipin.com/yDoTN
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="•海外「集合」", 翡翠台 4K
-https://cdn6.163189.xyz/163189/fct4k
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="•海外「集合」", 翡翠台「字幕」
-https://mytv.cdn.loc.cc/o12.php?id=fct
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.iill.top/logo/明珠台.png" group-title="•海外「集合」", 明珠台「字幕」
-https://mytv.cdn.loc.cc/o12.php?id=mzt
-#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://epg.iill.top/logo/TVBPlus.png" group-title="•海外「集合」",TVB Plus
-http://r.jdshipin.com/ndGgS
-#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://epg.iill.top/logo/無綫新聞台.png" group-title="•海外「集合」",無綫新聞台
-http://r.jdshipin.com/CkuBd
-#EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https://epg.iill.top/logo/Now新聞台.png" group-title="•海外「集合」",Now新聞台
-https://cdn.163189.xyz/163189/now
-#EXTINF:-1 tvg-id="Red Bull TV" tvg-name="Red Bull TV" tvg-logo="https://epg.iill.top/logo/RedBull.png" group-title="•海外「集合」",Red Bull TV
+#EXTINF:-1 tvg-id="Red Bull TV" tvg-name="Red Bull TV" tvg-logo="https://epg.iill.top/logo/RedBull.png" group-title="•海外「Juli」",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" tvg-logo="https://epg.iill.top/logo/娛樂新聞.png" group-title="•海外「集合」",娛樂新聞台
+#EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文台" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" group-title="•海外「Juli」",鳳凰衛視·中文
+https://cdn6.163189.xyz/163189/fhzw
+#EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" group-title="•海外「Juli」",鳳凰衛視·資訊
+https://cdn6.163189.xyz/163189/fhzx
+#EXTINF:-1 tvg-id="鳳凰衛視香港台" tvg-name="鳳凰衛視香港台" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" group-title="•海外「Juli」",鳳凰衛視·香港
+https://cdn6.163189.xyz/163189/fhhk
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="•海外「Juli」", 翡翠台 4K
+https://o11.163189.xyz/stream/tvb/fct4k/
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="•海外「Juli」", 翡翠台
+https://o11.163189.xyz/stream/tvb/tvbp/
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.iill.top/logo/明珠台.png" group-title="•海外「Juli」", 明珠台
+https://o11.163189.xyz/stream/tvb/mzt/
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://epg.iill.top/logo/TVBPlus.png" group-title="•海外「Juli」",TVB Plus
+https://o11.163189.xyz/stream/tvb/tvbp/
+#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://epg.iill.top/logo/無綫新聞台.png" group-title="•海外「Juli」",無綫新聞台
+https://cdn6.163189.xyz/163189/wxxw
+#EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https://epg.iill.top/logo/Now新聞台.png" group-title="•海外「Juli」",Now新聞台
+https://cdn.163189.xyz/163189/now
+#EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" tvg-logo="https://epg.iill.top/logo/娛樂新聞.png" group-title="•海外「Juli」",娛樂新聞台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-#EXTINF:-1 tvg-id="TVB XING HE" tvg-name="TVB XING HE" tvg-logo="https://epg.iill.top/logo/星河台.png" group-title="•海外「集合」",TVB 星河
-http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-#EXTINF:-1 tvg-id="功夫台" tvg-name="功夫台" tvg-logo="https://epg.iill.top/logo/亞洲武俠.png" group-title="•海外「集合」",亞洲武俠
-http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-#EXTINF:-1 tvg-id="AOD" tvg-name="AOD" tvg-logo="https://epg.iill.top/logo/AOD.png" group-title="•海外「集合」",Astro AOD
-http://php.jdshipin.com/TVOD/iptv.php?id=aod
-#EXTINF:-1 tvg-id="AEC" tvg-name="AEC" tvg-logo="https://epg.iill.top/logo/AEC.png" group-title="•海外「集合」",Astro AEC
-http://php.jdshipin.com/smt.php?id=AEC
-#EXTINF:-1 tvg-id="QJ" tvg-name="QJ" tvg-logo="https://epg.iill.top/logo/全佳.png" group-title="•海外「集合」",Astro QJ
-http://php.jdshipin.com/smt.php?id=Quanjia
-#EXTINF:-1 tvg-id="HUA HEE DAI" tvg-name="HUA HEE DAI" tvg-logo="https://epg.iill.top/logo/欢喜台.png" group-title="•海外「集合」",Astro 欢喜台
-http://php.jdshipin.com/smt.php?id=Huahee
-#EXTINF:-1 tvg-id="iQIYI" tvg-name="iQIYI" tvg-logo="https://epg.iill.top/logo/爱奇艺.png" group-title="•海外「集合」",iQIYI
-http://php.jdshipin.com/smt.php?id=Qiyi
-#EXTINF:-1 tvg-id="8tv" tvg-name="8TV" tvg-logo="https://epg.iill.top/logo/八度空間.png" group-title="•海外「集合」",八度空間
+#EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧經典台" tvg-logo="https://epg.iill.top/logo/千禧經典台.png" group-title="•海外「Juli」",千禧經典台
+https://o11.163189.xyz/stream/live/tvbc/
+#EXTINF:-1 tvg-id="天映马来西亚" tvg-name="天映马来西亚" tvg-logo="https://epg.iill.top/logo/天映频道.png" group-title="•海外「Juli」",天映频道
+https://o11.163189.xyz/stream/live/typd/
+#EXTINF:-1 tvg-id="天映經典頻道" tvg-name="天映經典頻道" tvg-logo="https://epg.iill.top/logo/天映经典.png" group-title="•海外「Juli」",天映經典
+https://o11.163189.xyz/stream/live/ccm/
+#EXTINF:-1 tvg-id="TVB XING HE" tvg-name="TVB XING HE" tvg-logo="https://epg.iill.top/logo/星河台.png" group-title="•海外「Juli」",TVB 星河
+https://o11.163189.xyz/stream/live/tvbxh/
+#EXTINF:-1 tvg-id="功夫台" tvg-name="功夫台" tvg-logo="https://epg.iill.top/logo/亞洲武俠.png" group-title="•海外「Juli」",亞洲武俠
+https://cdn6.163189.xyz/163189/yzwx
+#EXTINF:-1 tvg-id="AOD" tvg-name="AOD" tvg-logo="https://epg.iill.top/logo/AOD.png" group-title="•海外「Juli」",Astro AOD
+https://o11.163189.xyz/stream/live/aod/
+#EXTINF:-1 tvg-id="AEC" tvg-name="AEC" tvg-logo="https://epg.iill.top/logo/AEC.png" group-title="•海外「Juli」",Astro AEC
+https://o11.163189.xyz/stream/live/aec/
+#EXTINF:-1 tvg-id="QJ" tvg-name="QJ" tvg-logo="https://epg.iill.top/logo/全佳.png" group-title="•海外「Juli」",Astro QJ
+https://smt.1678520.xyz/smt3.2.3.php?id=Quanjia
+#EXTINF:-1 tvg-id="HUA HEE DAI" tvg-name="HUA HEE DAI" tvg-logo="https://epg.iill.top/logo/欢喜台.png" group-title="•海外「Juli」",Astro 欢喜台
+https://o11.163189.xyz/stream/live/hxt/
+#EXTINF:-1 tvg-id="iQIYI" tvg-name="iQIYI" tvg-logo="https://epg.iill.top/logo/爱奇艺.png" group-title="•海外「Juli」",iQIYI
+https://o11.163189.xyz/stream/live/iqiyi/
+#EXTINF:-1 tvg-id="8tv" tvg-name="8TV" tvg-logo="https://epg.iill.top/logo/八度空間.png" group-title="•海外「Juli」",八度空間
 http://cdn6.163189.xyz/163189/8tv
-#EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="https://epg.iill.top/logo/Channel5.png" group-title="•海外「集合」",Channel 5
+#EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="https://epg.iill.top/logo/Channel5.png" group-title="•海外「Juli」",Channel 5
 http://cdn6.163189.xyz/163189/ch5
-#EXTINF:-1 tvg-id="Channel 8" tvg-name="Channel 8" tvg-logo="https://epg.iill.top/logo/Channel8.png" group-title="•海外「集合」",Channel 8
+#EXTINF:-1 tvg-id="Channel 8" tvg-name="Channel 8" tvg-logo="https://epg.iill.top/logo/Channel8.png" group-title="•海外「Juli」",Channel 8
 http://cdn6.163189.xyz/163189/ch8
-#EXTINF:-1 tvg-id="Channel U" tvg-name="Channel U" tvg-logo="https://epg.iill.top/logo/ChannelU.png" group-title="•海外「集合」",Channel U
-http://cdn6.163189.xyz/163189/chu
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.iill.top/logo/五星体育.png" group-title="•海外「集合」",五星体育
-https://cdn3.163189.xyz/163189/wxty
-#EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.iill.top/logo/第一财经.png" group-title="•海外「集合」",第一财经
-https://cdn3.163189.xyz/163189/dycj
+#EXTINF:-1 tvg-id="Channel U" tvg-name="Channel U" tvg-logo="https://epg.iill.top/logo/ChannelU.png" group-title="•海外「Juli」",Channel U
+http://cdn6.163189.xyz/163189/ch
 
 #EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文台" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="•港澳「限制」",鳳凰衛視·中文「回看」
 http://dxa.yiandrive.com:39191/phenix/fhzw
@@ -359,6 +361,12 @@ https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 tvg-id="澳视综艺" tvg-name="澳视综艺" tvg-logo="https://epg.iill.top/logo/澳门综艺.png" group-title="•港澳「限制」",澳門綜藝
 https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="•綜合「測試」", 翡翠台
+https://hls.iill.top/api/TVB-Jade/index.m3u8
+#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://epg.iill.top/logo/無綫新聞台.png" group-title="•綜合「測試」",無綫新聞台
+https://hls.iill.top/api/TVB-News/index.m3u8
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://epg.iill.top/logo/TVBPlus.png" group-title="•綜合「測試」",TVB Plus
+https://hls.iill.top/api/TVB-Plus/index.m3u8
 #EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://epg.iill.top/logo/BBC-Earth.png" group-title="•綜合「測試」",BBC Earth
 https://hls.iill.top/api/BBC-Earth/index.m3u8
 #EXTINF:-1 tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" tvg-logo="https://epg.iill.top/logo/BBC-Lifestyle.png" group-title="•綜合「測試」",BBC Lifestyle
