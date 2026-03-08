@@ -461,5 +461,7 @@ https://hls.iill.top/api/Sky-Sports-EPL/index.m3u8
 https://hls.iill.top/api/Sky-Sports-F1/index.m3u8
 #EXTINF:-1 tvg-id="SkySp Mix HD" tvg-name="SkySp Mix HD" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Mix.png" group-title="•體育「Relay」",Sky Sports Mix
 https://hls.iill.top/api/Sky-Sports-Mix/index.m3u8
+#EXTINF:-1 tvg-id="SkySp Racing HD" tvg-name="SkySp Racing HD" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Racing.png" group-title="•體育「Relay」",Sky Sports Racing
+https://hls.iill.top/api/Sky-Sports-Racing/index.m3u8
 #EXTINF:-1 tvg-id="FIGHT SPORTS HD" tvg-name="FIGHT SPORTS HD" tvg-logo="https://epg-1.iill.top/logo/Fight-Sports.png" group-title="•體育「Relay」",Fight Sports
 https://hls.iill.top/api/Fight-Sports/index.m3u8
