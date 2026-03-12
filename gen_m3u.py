@@ -5,12 +5,16 @@ import re
 from collections import OrderedDict
 
 INPUT_URL = "https://tv.iill.top/m3u/Gather"
+#INPUT_URL = "https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u"
 OUTPUT_FILE = "tv.m3u"
 
 GROUP_ORDER = [
     "台湾",
     "海外",
+    "Juli",
     "港澳",
+    "央視",
+    "地方",
     "綜合",
     "體育",
 ]
