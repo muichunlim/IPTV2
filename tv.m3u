@@ -146,6 +146,8 @@ https://tv.iill.top/api/Animal-Planet/index.m3u8
 https://tv.iill.top/api/Hollywood-Movie/index.m3u8
 #EXTINF:-1 tvg-id="LS Time電影台" tvg-name="LS Time電影台" tvg-logo="https://epg.iill.top/logo/龍祥時代.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",龍祥時代「Relay」
 https://tv.iill.top/api/LSTIME-Movie/index.m3u8
+#EXTINF:-1 tvg-id="CATCHPLAY電影台" tvg-name="CATCHPLAY電影台" tvg-logo="https://epg.iill.top/logo/CATCHPLAY電影台" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",Catchplay「Relay」
+https://tv.iill.top/api/Catchplay/index.m3u8
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://epg.iill.top/logo/CINEMAX.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",CINEMAX「Relay」
 https://tv.iill.top/api/Cinemax/index.m3u8
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://epg.iill.top/logo/MTV.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",MTV Live「Relay」
@@ -365,13 +367,11 @@ http://cdn6.163189.xyz/163189/ch8
 http://cdn6.163189.xyz/163189/ch
 
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="•港澳「限制」", 翡翠台
-https://test.tvbjack.de5.net/proxy/282e188ba6928331
+https://hls.iill.top/api/TVB-Jade/index.m3u8
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://epg.iill.top/logo/TVBPlus.png" group-title="•港澳「限制」",TVB Plus
-https://test.tvbjack.de5.net/proxy/a8587523ddf2f847
+https://hls.iill.top/api/TVB-Plus/index.m3u8
 #EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://epg.iill.top/logo/無綫新聞台.png" group-title="•港澳「限制」",無綫新聞台
-https://test.tvbjack.de5.net/proxy/7138a9dbc960df99
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.iill.top/logo/明珠台.png" group-title="•港澳「限制」",明珠台
-https://test.tvbjack.de5.net/proxy/52c770320d636c50
+https://hls.iill.top/api/TVB-News/index.m3u8
 #EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文台" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="•港澳「限制」",鳳凰衛視·中文「回看」
 https://tv.iill.top/phenix/fhzw
 #EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" http-user-agent="FengWatch/5.4.14" group-title="•港澳「限制」",鳳凰衛視·資訊「回看」
