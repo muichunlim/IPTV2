@@ -5,17 +5,17 @@ https://hls.iill.top/api/Sports-Network/index.m3u8
 #EXTINF:-1 tvg-id="博斯運動二台" tvg-name="博斯運動二台" tvg-logo="https://epg-1.iill.top/logo/博斯運動二台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」", 博斯運動 二「CatchPlay」
 https://hls.iill.top/api/Football-Channel/index.m3u8
 #EXTINF:-1 tvg-id="博斯無限台" tvg-name="博斯無限台" tvg-logo="https://epg-1.iill.top/logo/博斯無限台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」", 博斯無限 一「FainTV」
-https://ha.msbot.dpdns.org/hlk.php?id=129
+https://tv.iill.top/FainTV/129
 #EXTINF:-1 tvg-id="博斯無限二台" tvg-name="博斯無限二台" tvg-logo="https://epg-1.iill.top/logo/博斯無限二台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」", 博斯無限 二「FainTV」
-https://ha.msbot.dpdns.org/hlk.php?id=418
+https://tv.iill.top/FainTV/418
 #EXTINF:-1 tvg-id="博斯高球台" tvg-name="博斯高球台" tvg-logo="https://epg-1.iill.top/logo/博斯高球台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」", 博斯高球 一「FainTV」
-https://ha.msbot.dpdns.org/hlk.php?id=108
+https://tv.iill.top/FainTV/108
 #EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" tvg-logo="https://epg-1.iill.top/logo/博斯高球二台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」", 博斯高球 二「FainTV」
-https://ha.msbot.dpdns.org/hlk.php?id=125
+https://tv.iill.top/FainTV/125
 #EXTINF:-1 tvg-id="博斯網球台" tvg-name="博斯網球台" tvg-logo="https://epg-1.iill.top/logo/博斯網球台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」", 博斯網球「FainTV」
-https://ha.msbot.dpdns.org/hlk.php?id=53
+https://tv.iill.top/FainTV/53
 #EXTINF:-1 tvg-id="博斯魅力台" tvg-name="博斯魅力台" tvg-logo="https://epg-1.iill.top/logo/博斯魅力台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」", 博斯魅力「FainTV」
-https://ha.msbot.dpdns.org/hlk.php?id=135
+https://tv.iill.top/FainTV/135
 #EXTINF:-1 tvg-id="緯來日本台" tvg-name=緯來日本台" tvg-logo="https://epg.iill.top/logo/緯來日本.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",緯來日本「Relay」
 https://tv.iill.top/api/VL-Japan/index.m3u8
 #EXTINF:-1 tvg-id="緯來體育台" tvg-name="緯來體育台" tvg-logo="https://epg.iill.top/logo/緯來體育.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",緯來體育「Relay」
@@ -31,7 +31,7 @@ https://tv.iill.top/api/VL-E/index.m3u8
 #EXTINF:-1 tvg-id="年代新聞台" tvg-name="年代新聞台" tvg-logo="https://epg.iill.top/logo/年代新聞台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",年代新聞「Relay」
 https://tv.iill.top/api/Era-News/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://epg-1.iill.top/logo/中天亞洲台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」", 中天亞洲「FainTV」
-https://ha.msbot.dpdns.org/hlk.php?id=121
+https://tv.iill.top/FainTV/121
 #EXTINF:-1 tvg-id="中天綜合台" tvg-name="中天綜合台" tvg-logo="https://epg.iill.top/logo/中天綜合台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",中天綜合「Relay」
 https://tv.iill.top/api/Cti-K/index.m3u8
 #EXTINF:-1 tvg-id="中天娛樂台" tvg-name="中天娛樂台" tvg-logo="https://epg.iill.top/logo/中天娛樂台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",中天娛樂「Relay」
@@ -106,6 +106,8 @@ https://tv.iill.top/ofiii/litv-xinchuang03
 https://tv.iill.top/4gtv/4gtv-4gtv034
 #EXTINF:-1 tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="https://epg.iill.top/logo/八大綜藝台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",八大綜藝「4gTV」
 https://tv.iill.top/4gtv/4gtv-4gtv039
+#EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://epg.iill.top/logo/台視.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",台視「Relay」
+https://tv.iill.top/api/TTV/index.m3u8
 #EXTINF:-1 tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="https://epg.iill.top/logo/台視新聞.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",台視新聞「ofiii」
 https://tv.iill.top/ofiii/4gtv-4gtv051
 #EXTINF:-1 tvg-id="公視戲劇" tvg-name="公視戲劇" tvg-logo="https://epg.iill.top/logo/公視戲劇台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",公視戲劇「4gTV」
@@ -146,7 +148,7 @@ https://tv.iill.top/api/Animal-Planet/index.m3u8
 https://tv.iill.top/api/Hollywood-Movie/index.m3u8
 #EXTINF:-1 tvg-id="LS Time電影台" tvg-name="LS Time電影台" tvg-logo="https://epg.iill.top/logo/龍祥時代.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",龍祥時代「Relay」
 https://tv.iill.top/api/LSTIME-Movie/index.m3u8
-#EXTINF:-1 tvg-id="CATCHPLAY電影台" tvg-name="CATCHPLAY電影台" tvg-logo="https://epg.iill.top/logo/CATCHPLAY電影台" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",Catchplay「Relay」
+#EXTINF:-1 tvg-id="CATCHPLAY電影台" tvg-name="CATCHPLAY電影台" tvg-logo="https://epg.iill.top/logo/CATCHPLAY電影台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",CATCHPLAY 電影「Relay」
 https://tv.iill.top/api/Catchplay/index.m3u8
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://epg.iill.top/logo/CINEMAX.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",CINEMAX「Relay」
 https://tv.iill.top/api/Cinemax/index.m3u8
@@ -285,15 +287,15 @@ https://tv.iill.top/4gtv/4gtv-4gtv043
 #EXTINF:-1 tvg-id="人間衛視" tvg-name="人間衛視" tvg-logo="https://epg.iill.top/logo/人間衛視.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",人間衛視「4gTV」
 https://tv.iill.top/4gtv/4gtv-live008
 #EXTINF:-1 tvg-id="ETtoday綜合台" tvg-name="ETtoday綜合台" tvg-logo="https://epg-1.iill.top/logo/ETtoday綜合台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",ETtoday綜合「FainTV」
-https://ha.msbot.dpdns.org/hlk.php?id=146
+https://tv.iill.top/FainTV/146
 #EXTINF:-1 tvg-id="MOMO運動綜合台" tvg-name="MOMO運動綜合台" tvg-logo="https://epg-1.iill.top/logo/MOMO運動綜合台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",MOMO運動綜合「FainTV」
-https://ha.msbot.dpdns.org/hlk.php?id=14009
+https://tv.iill.top/FainTV/14009
 #EXTINF:-1 tvg-id="歡樂看新聞" tvg-name="歡樂看新聞" tvg-logo="https://epg-1.iill.top/logo/FainTV.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",歡樂看新聞「FainTV」
-https://ha.msbot.dpdns.org/hlk.php?id=19670
+https://tv.iill.top/FainTV/19670
 #EXTINF:-1 tvg-id="歡樂兒童台" tvg-name="歡樂兒童台" tvg-logo="https://epg-1.iill.top/logo/FainTV.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",歡樂兒童「FainTV」
-https://ha.msbot.dpdns.org/hlk.php?id=22768
+https://tv.iill.top/FainTV/22768
 #EXTINF:-1 tvg-id="台灣啟示錄" tvg-name="台灣啟示錄" tvg-logo="https://epg-1.iill.top/logo/台灣啟示錄.jpg" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",台灣啟示錄「FainTV」
-https://ha.msbot.dpdns.org/hlk.php?id=18254
+https://tv.iill.top/FainTV/18254
 #EXTINF:-1 tvg-id="大愛電視" tvg-name="大愛電視" tvg-logo="https://epg.iill.top/logo/大愛電視.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",大愛電視「4gTV」
 https://tv.iill.top/4gtv/4gtv-live007
 #EXTINF:-1 tvg-id="大愛二台" tvg-name="大愛二台" tvg-logo="https://epg.iill.top/logo/大愛電視.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",大愛電視 2「4gTV」
