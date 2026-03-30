@@ -148,8 +148,6 @@ https://tv.iill.top/api/Animal-Planet/index.m3u8
 https://tv.iill.top/api/Hollywood-Movie/index.m3u8
 #EXTINF:-1 tvg-id="LS Time電影台" tvg-name="LS Time電影台" tvg-logo="https://epg.iill.top/logo/龍祥時代.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",龍祥時代「Relay」
 https://tv.iill.top/api/LSTIME-Movie/index.m3u8
-#EXTINF:-1 tvg-id="CATCHPLAY電影台" tvg-name="CATCHPLAY電影台" tvg-logo="https://epg.iill.top/logo/CATCHPLAY電影台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",CATCHPLAY 電影「Relay」
-https://tv.iill.top/api/Catchplay/index.m3u8
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://epg.iill.top/logo/CINEMAX.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",CINEMAX「Relay」
 https://tv.iill.top/api/Cinemax/index.m3u8
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://epg.iill.top/logo/MTV.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",MTV Live「Relay」
@@ -463,10 +461,6 @@ https://tv.iill.top/api/CCTV13/index.m3u8
 https://tv.iill.top/api/CCTV14/index.m3u8
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.iill.top/logo/CCTV15.png" group-title="•央視「Relay」",CCTV 15 音樂「Relay」
 https://tv.iill.top/api/CCTV15/index.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="•央視「Relay」",CCTV 16 奥林匹克「Relay」
-https://tv.iill.top/api/CCTV16/index.m3u8
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.iill.top/logo/CCTV17.png" group-title="•央視「Relay」",CCTV 17 農業農村「Relay」
-https://tv.iill.top/api/CCTV17/index.m3u8
 #EXTINF:-1 tvg-id="CGTN"  tvg-name="CGTN" tvg-logo="https://epg.iill.top/logo/CGTN.png" group-title="•央視「Relay」",CGTN「回看」
 https://tv.iill.top/CGTN/cgtn
 #EXTINF:-1 tvg-id="CGTN外语纪录" tvg-name="CGTN外语纪录" tvg-logo="https://epg.iill.top/logo/CGTN纪录.png" group-title="•央視「Relay」",CGTN Documentary「回看」
