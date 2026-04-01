@@ -30,8 +30,8 @@ https://tv.iill.top/api/VL-Drama/index.m3u8
 https://tv.iill.top/api/VL-E/index.m3u8
 #EXTINF:-1 tvg-id="年代新聞台" tvg-name="年代新聞台" tvg-logo="https://epg.iill.top/logo/年代新聞台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",年代新聞「Relay」
 https://tv.iill.top/api/Era-News/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://epg-1.iill.top/logo/中天亞洲台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」", 中天亞洲「FainTV」
-https://tv.iill.top/FainTV/121
+#EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://epg-1.iill.top/logo/中天亞洲台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」", 中天亞洲「Relay」
+https://tv.iill.top/api/Cti-I/index.m3u8
 #EXTINF:-1 tvg-id="中天綜合台" tvg-name="中天綜合台" tvg-logo="https://epg.iill.top/logo/中天綜合台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",中天綜合「Relay」
 https://tv.iill.top/api/Cti-K/index.m3u8
 #EXTINF:-1 tvg-id="中天娛樂台" tvg-name="中天娛樂台" tvg-logo="https://epg.iill.top/logo/中天娛樂台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",中天娛樂「Relay」
